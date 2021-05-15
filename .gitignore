@@ -27,15 +27,17 @@
 
 *.doc
 *.docx
-*.gif
-*.jpg
-*.mp4
-*.mpg
-*.png
 *.ppt
 *.pptx
 *.xls
 *.xlsx
+
+#*.gif
+#*.jpg
+#*.png
+
+*.mp4
+*.mpg
 *.zip
 Vacancy*.*
 vacancy*.*
