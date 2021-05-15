@@ -1,2 +1,2 @@
-# KinkaPalms.github.io
-KinkaPalms.github.io
+# Kinka-Palms-Web-Site
+Kinka Palms Web Site
